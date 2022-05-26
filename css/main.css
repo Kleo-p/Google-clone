@@ -62,7 +62,7 @@ li {
   margin: 0 10px 25px 10px;
   background-color: transparent;
   border: 1px solid rgb(82, 92, 114);
-  background: url(/search\).png), url(/microphone.png);
+  background: url(../photos/search\).png), url(../photos/microphone.png);
   background-repeat: no-repeat, no-repeat;
   background-position: 20px, 535px;
   background-size: 15px, 25px;
