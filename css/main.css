@@ -54,8 +54,10 @@ li {
 }
 .google .inp {
   width: 36rem;
-  padding: 14px 15px;
+  padding: 14px 46px;
+  font-size: 16px;
   box-sizing: border-box;
+  color: rgb(243, 243, 245);
   border-radius: 30px;
   margin: 0 10px 25px 10px;
   background-color: transparent;
